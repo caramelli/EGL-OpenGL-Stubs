@@ -1,0 +1,8 @@
+EGL and OpenGL Stubs
+--------------------
+
+The EGL-OpenGL-Stubs package contains EGL and OpenGL stubs for linking at build time.
+
+Have fun,
+
+Nicolas Caramelli
