@@ -1,6 +1,6 @@
 /*
   EGL-OpenGL-Stubs    EGL and OpenGL stubs
-  Copyright (C) 2021  Nicolas Caramelli
+  Copyright (C) 2024  Nicolas Caramelli
 
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
@@ -65,10 +65,10 @@ void glFramebufferRenderbuffer() {}
 void glFramebufferTexture2D() {}
 void glFrontFace() {}
 void glGenBuffers() {}
-void glGenerateMipmap() {}
 void glGenFramebuffers() {}
 void glGenRenderbuffers() {}
 void glGenTextures() {}
+void glGenerateMipmap() {}
 void glGetActiveAttrib() {}
 void glGetActiveUniform() {}
 void glGetAttachedShaders() {}
@@ -79,22 +79,22 @@ void glGetError() {}
 void glGetFloatv() {}
 void glGetFramebufferAttachmentParameteriv() {}
 void glGetIntegerv() {}
-void glGetProgramiv() {}
 void glGetProgramInfoLog() {}
+void glGetProgramiv() {}
 void glGetRenderbufferParameteriv() {}
-void glGetShaderiv() {}
 void glGetShaderInfoLog() {}
 void glGetShaderPrecisionFormat() {}
 void glGetShaderSource() {}
+void glGetShaderiv() {}
 void glGetString() {}
 void glGetTexParameterfv() {}
 void glGetTexParameteriv() {}
+void glGetUniformLocation() {}
 void glGetUniformfv() {}
 void glGetUniformiv() {}
-void glGetUniformLocation() {}
+void glGetVertexAttribPointerv() {}
 void glGetVertexAttribfv() {}
 void glGetVertexAttribiv() {}
-void glGetVertexAttribPointerv() {}
 void glHint() {}
 void glIsBuffer() {}
 void glIsEnabled() {}

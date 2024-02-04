@@ -1,6 +1,6 @@
 /*
   EGL-OpenGL-Stubs    EGL and OpenGL stubs
-  Copyright (C) 2021  Nicolas Caramelli
+  Copyright (C) 2024  Nicolas Caramelli
 
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.

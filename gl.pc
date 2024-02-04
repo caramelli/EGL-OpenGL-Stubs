@@ -3,8 +3,8 @@ exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
 
-Name: glesv1_cm
-Description: OpenGL ES 1.1 CM library
-Version: 1.1
-Libs: -L${libdir} -lGLESv1_CM
+Name: gl
+Description: OpenGL library
+Version: 2.1
+Libs: -L${libdir} -lGL
 Cflags: -I${includedir}
