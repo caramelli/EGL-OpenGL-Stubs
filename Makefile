@@ -22,7 +22,6 @@ install: all
 	ln -sf libGL.so.1 $(DESTDIR)$(PREFIX)/lib/libGL.so
 	ln -sf libGLESv1_CM.so.1 $(DESTDIR)$(PREFIX)/lib/libGLESv1_CM.so
 	ln -sf libGLESv2.so.2 $(DESTDIR)$(PREFIX)/lib/libGLESv2.so
-	install egl.pc gl.pc glesv1_cm.pc glesv2.pc $(DESTDIR)$(PREFIX)/lib/pkgconfig
 	sed "/^prefix=/s|=.*|=$(PREFIX)|" egl.pc > $(DESTDIR)$(PREFIX)/lib/pkgconfig/egl.pc
 	sed "/^prefix=/s|=.*|=$(PREFIX)|" gl.pc > $(DESTDIR)$(PREFIX)/lib/pkgconfig/gl.pc
 	sed "/^prefix=/s|=.*|=$(PREFIX)|" glesv1_cm.pc > $(DESTDIR)$(PREFIX)/lib/pkgconfig/glesv1_cm.pc

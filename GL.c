@@ -102,6 +102,7 @@ void glCompressedTexImage3D() {}
 void glCompressedTexSubImage1D() {}
 void glCompressedTexSubImage2D() {}
 void glCompressedTexSubImage3D() {}
+void glCopyBufferSubData() {}
 void glCopyPixels() {}
 void glCopyTexImage1D() {}
 void glCopyTexImage2D() {}
@@ -129,9 +130,11 @@ void glDisableClientState() {}
 void glDisableVertexAttribArray() {}
 void glDisablei() {}
 void glDrawArrays() {}
+void glDrawArraysInstanced() {}
 void glDrawBuffer() {}
 void glDrawBuffers() {}
 void glDrawElements() {}
+void glDrawElementsInstanced() {}
 void glDrawPixels() {}
 void glDrawRangeElements() {}
 void glEdgeFlag() {}
@@ -205,6 +208,10 @@ void glGenVertexArrays() {}
 void glGenerateMipmap() {}
 void glGetActiveAttrib() {}
 void glGetActiveUniform() {}
+void glGetActiveUniformBlockName() {}
+void glGetActiveUniformBlockiv() {}
+void glGetActiveUniformName() {}
+void glGetActiveUniformsiv() {}
 void glGetAttachedShaders() {}
 void glGetAttribLocation() {}
 void glGetBooleani_v() {}
@@ -257,6 +264,8 @@ void glGetTexParameterIuiv() {}
 void glGetTexParameterfv() {}
 void glGetTexParameteriv() {}
 void glGetTransformFeedbackVarying() {}
+void glGetUniformBlockIndex() {}
+void glGetUniformIndices() {}
 void glGetUniformLocation() {}
 void glGetUniformfv() {}
 void glGetUniformiv() {}
@@ -399,6 +408,7 @@ void glPopAttrib() {}
 void glPopClientAttrib() {}
 void glPopMatrix() {}
 void glPopName() {}
+void glPrimitiveRestartIndex() {}
 void glPrioritizeTextures() {}
 void glPushAttrib() {}
 void glPushClientAttrib() {}
@@ -473,6 +483,7 @@ void glStencilMask() {}
 void glStencilMaskSeparate() {}
 void glStencilOp() {}
 void glStencilOpSeparate() {}
+void glTexBuffer() {}
 void glTexCoord1d() {}
 void glTexCoord1dv() {}
 void glTexCoord1f() {}
@@ -555,6 +566,7 @@ void glUniform4i() {}
 void glUniform4iv() {}
 void glUniform4ui() {}
 void glUniform4uiv() {}
+void glUniformBlockBinding() {}
 void glUniformMatrix2fv() {}
 void glUniformMatrix2x3fv() {}
 void glUniformMatrix2x4fv() {}
