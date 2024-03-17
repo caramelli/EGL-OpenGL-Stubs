@@ -1,3 +1,33 @@
+commit 4219ac720e99fd791f3b517be87f3560c34617a3
+Author: Nicolas Caramelli <caramelli.devel@gmail.com>
+Date:   Sun Mar 17 09:50:07 2024 +0100
+
+    Add OpenGL 3.1 API
+
+commit d0865448a769caaec948bd260de63ceefd8b011b
+Author: Nicolas Caramelli <caramelli.devel@gmail.com>
+Date:   Mon Feb 12 20:03:27 2024 +0100
+
+    Add OpenGL ES 3.0 API
+
+commit 668bf18be8e45b59b0ddcb2719fd87e8ac4d8b22
+Author: Nicolas Caramelli <caramelli.devel@gmail.com>
+Date:   Mon Feb 12 20:00:19 2024 +0100
+
+    Add OpenGL 3.0 API
+
+commit 7afcc719d94e799627bf8e44597de27190fe7d47
+Author: Nicolas Caramelli <caramelli.devel@gmail.com>
+Date:   Sun Feb 4 21:30:54 2024 +0100
+
+    Add OpenGL 2.1 API with GLFBDev and GLX extensions
+
+commit 2b09101224387526211d59f173139ddb40b5abd9
+Author: Nicolas Caramelli <caramelli.devel@gmail.com>
+Date:   Tue Apr 5 13:13:22 2022 +0200
+
+    update ChangeLog
+
 commit 82d386272736f823f925f1d9fab12f34265e30a4
 Author: Nicolas Caramelli <caramelli.devel@gmail.com>
 Date:   Fri Apr 16 14:07:06 2021 +0200
