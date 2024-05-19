@@ -1,3 +1,15 @@
+commit 7e1070123c261c2132bc2d4b92ef3a357864c3f2
+Author: Nicolas Caramelli <caramelli.devel@gmail.com>
+Date:   Sun May 19 21:31:13 2024 +0200
+
+    Add OpenGL 3.2 and 3.3 API
+
+commit a17e49f7c7d3764ff647b00e7ce4053132fcfbc7
+Author: Nicolas Caramelli <caramelli.devel@gmail.com>
+Date:   Sun Mar 17 09:50:51 2024 +0100
+
+    Update ChangeLog
+
 commit 4219ac720e99fd791f3b517be87f3560c34617a3
 Author: Nicolas Caramelli <caramelli.devel@gmail.com>
 Date:   Sun Mar 17 09:50:07 2024 +0100
