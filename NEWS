@@ -1,3 +1,19 @@
+0.5
+---
+OpenGL 3.3
+
+0.4
+---
+OpenGL 3.1
+
+0.3
+---
+OpenGL 3.0, OpenGL ES 3.0
+
+0.2
+---
+OpenGL 2.1, GLFBDev 1.0, GLX 1.4
+
 0.1
 ---
-Initial release
+EGL 1.5, OpenGL ES 1.1 CM, OpenGL ES 2.0
