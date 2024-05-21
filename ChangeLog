@@ -1,3 +1,15 @@
+commit 9ad90626a4a440c12e9aa102d816ee094f76a0fe
+Author: Nicolas Caramelli <caramelli.devel@gmail.com>
+Date:   Tue May 21 17:38:49 2024 +0200
+
+    Add OpenGL 4.2 and 4.3 API
+
+commit 6e5afe1e045c00d88ae2528c3390e331baa2d141
+Author: Nicolas Caramelli <caramelli.devel@gmail.com>
+Date:   Mon May 20 11:04:46 2024 +0200
+
+    Update ChangeLog
+
 commit 18adbbe562a349adf8c253071f56526b7485d4a0
 Author: Nicolas Caramelli <caramelli.devel@gmail.com>
 Date:   Mon May 20 11:04:33 2024 +0200
